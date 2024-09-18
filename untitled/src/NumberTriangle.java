@@ -1,7 +1,8 @@
 // Java Program to print pattern
 // Number triangle pattern
 
-public class Main {
+public class NumberTriangle
+{
     // Function to demonstrate pattern
     public static void printPattern(int n)
     {
